@@ -11,7 +11,7 @@ Completed practice projects from https://www.frontendmentor.io/
 - [**HTML**/**CSS**] Social proof section ✔️ [Challenge](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA) / [Solution]()
 - [**HTML**/**CSS**/**JS**] Ping single column coming soon page ✔️ [Challenge](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da) / [Solution]()
 - [**HTML**/**CSS**/**JS**] Intro component with sign-up form ✔️ [Challenge](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1) / [Solution]()
-- [**HTML**/**CSS**/**JS**] FAQ accordion card ✔️ / [Challenge](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam) [Solution]()
+- [**HTML**/**CSS**/**JS**] FAQ accordion card ✔️ [Challenge](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam) / [Solution]()
 
 ## Junior level
 - [**HTML**/**CSS**] Fylo data storage component ✔️ [Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n) / [Solution]()
