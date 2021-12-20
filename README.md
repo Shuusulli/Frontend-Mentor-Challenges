@@ -2,6 +2,7 @@
 Completed practice projects from https://www.frontendmentor.io/
 
 ## Newbie level
+- [**HTML**/**CSS**] Order summary component ✔️ [Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) / [Solution]()
 - [**HTML**/**CSS**] Four Card Feature Section ✔️ [Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) / [Solution]()
 - [**HTML**/**CSS**] 3 Column Preview Card Component ✔️ [Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) / [Solution]()
 - [**HTML**/**CSS**] Single price grid component ✔️ [Challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) / [Solution]()
