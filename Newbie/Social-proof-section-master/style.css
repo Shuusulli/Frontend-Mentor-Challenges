@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    font-size: 15px;
+
+}
+
+section {
+    background-image: url("images/bg-pattern-bottom-desktop.svg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.row {
+    max-width: 80%;
+    margin: 150px auto 80px auto;
+}
+
+.top-layer {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.main-text {
+    width: 500px;
+    
+}
+
+.main-text h1 {
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+    font-size: 45px;
+   
+    
+}
+
+.main-text p {
+    color: hsl(303, 10%, 53%);
+    line-height: 200%;
+}
+
+.rating {
+    background-color: hsl(300, 24%, 96%);
+    padding: 15px 50px;
+    display: flex;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.rating p {
+    font-weight: bold;
+    color: hsl(300, 43%, 22%);
+    margin-left: 15px;
+}
+
+.rating-1 {
+    right: 90px;
+}
+
+.rating-2 {
+    right: 50px;
+}
+
+.rating-3 {
+    right: 0px;
+}
+
+
+
+
+
+
+.bottom-layer {
+    display: flex;
+    position: relative;
+    
+    justify-content: center;
+}
+
+.card{
+    background-color: hsl(300, 43%, 22%);
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 35px;
+    margin: 60px 19px;
+    position: relative;
+
+}
+
+.card-info{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    line-height: 150%;
+}
+
+.card-info .info{
+    margin-left: 20px;
+    line-height: 150%;
+}
+
+.card-info .info h2{
+    color: #fff;
+    font-size: 15px;
+}
+
+.card-info .info h3{
+    color: hsl(333, 80%, 67%);
+}
+
+.card-content p{
+    color: #fff;
+    font-size: 14px;
+}
+
+.card img{
+    border-radius: 50%;
+    width: 50px;
+}
+
+.card .card-content{
+    margin-bottom: 20px;
+}
+
+.card-2{
+    top: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.card-3{
+    top: 30px;
+    
+}
