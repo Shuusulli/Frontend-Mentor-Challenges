@@ -9,16 +9,7 @@ Completed practice projects from https://www.frontendmentor.io/
 - [**HTML**/**CSS**] Stats preview card component ✔️ [Challenge](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62) / [Solution](https://shuusulli.github.io/Frontend-Mentor-Challenges/Newbie/Stats-preview-card-component-master/index.html)
 - [**HTML**/**CSS**] Huddle landing page with a single introductory section ✔️ [Challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) / [Solution](https://shuusulli.github.io/Frontend-Mentor-Challenges/Newbie/Huddle-landing-page-with-single-introductory-section-master/index.html)
 - [**HTML**/**CSS**] Base Apparel coming soon page ✔️ [Challenge](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0) / [Solution]()
-- [**HTML**/**CSS**] Social proof section ✔️ [Challenge](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA) / [Solution](Frontend-Mentor-Challenges/Newbie/Social-proof-section-master/index.html)
-- [**HTML**/**CSS**/**JS**] Ping single column coming soon page ✔️ [Challenge](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da) / [Solution]()
-- [**HTML**/**CSS**/**JS**] Intro component with sign-up form ✔️ [Challenge](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1) / [Solution]()
-- [**HTML**/**CSS**/**JS**] FAQ accordion card ✔️ [Challenge](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam) / [Solution]()
+- [**HTML**/**CSS**] Social proof section 🤔 [Challenge](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA) / [Solution](Frontend-Mentor-Challenges/Newbie/Social-proof-section-master/index.html)
 
-## Junior level
-- [**HTML**/**CSS**] Fylo data storage component ✔️ [Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n) / [Solution]()
-- [**HTML**/**CSS**] Testimonials grid section ✔️ [Challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) / [Solution]()
-- [**HTML**/**CSS**] Fylo dark theme landing page ✔️ [Challenge](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd) / [Solution]()
-- [**HTML**/**CSS**] Clipboard landing page ✔️ [Challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9) / [Solution]()
-- [**HTML**/**CSS**] Sunnyside agency landing page ✔️ [Challenge](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef) / [Solution]()
-- [**HTML**/**CSS**] Blogr landing page ✔️ [Challenge](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP) / [Solution]()
-- [**HTML**/**CSS**/**JS**] Tip calculator ✔️ [Challenge](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX) / [Solution]()
+
+
